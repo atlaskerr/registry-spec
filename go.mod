@@ -1,4 +1,4 @@
-module github.com/open-package-management/spec
+module github.com/atlaskerr/registry-spec
 
 go 1.12
 
